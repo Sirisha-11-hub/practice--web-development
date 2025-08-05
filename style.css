@@ -1,0 +1,36 @@
+*{
+margin: 0;
+padding: 0;
+}
+#navbar{
+   background-color: #0f1111;
+   display: flex;
+   padding-right: 200px;
+   height:60px;
+   padding-top: 10px;
+   box-sizing: border-box;
+   
+   
+}
+a{
+    padding-right: 200px;
+    text-decoration: none;
+    color:white;
+
+}
+#nav-amazon{
+ color: orange;
+}
+#nav-search{
+    height:20px;
+    border: none;
+    border-radius: 2px;
+    margin-right: 2px;
+}
+button{
+    height:20px;
+    border:none;
+    background-color: orange;
+    color:white;
+    border-radius: 2px;
+}
